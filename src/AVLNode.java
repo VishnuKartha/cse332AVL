@@ -10,4 +10,7 @@ public class AVLNode {
         this.left = left;
         this.right = right;
     }
+
+    public AVLNode(){
+    }
 }
