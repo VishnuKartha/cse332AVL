@@ -11,6 +11,4 @@ public class AVLNode {
         this.right = right;
     }
 
-    public AVLNode(){
-    }
 }
